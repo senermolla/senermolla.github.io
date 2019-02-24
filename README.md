@@ -2,4 +2,4 @@
 
 CV için hazılardığım web sitem 
 
-senermolla.com sitesinden canlı olarak gezebilirsiniz
+<a href="senermolla.com">senermolla.com</a> sitesinden canlı olarak gezebilirsiniz
